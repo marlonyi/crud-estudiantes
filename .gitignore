@@ -1,0 +1,13 @@
+# Flutter
+/estudiantes_flutter/.dart_tool/
+/estudiantes_flutter/.idea/
+/estudiantes_flutter/.packages
+/estudiantes_flutter/build/
+/estudiantes_flutter/pubspec.lock
+
+# Spring Boot
+/estudiantes-backend/target/
+/estudiantes-backend/.idea/
+/estudiantes-backend/.classpath
+/estudiantes-backend/.project
+/estudiantes-backend/.settings
